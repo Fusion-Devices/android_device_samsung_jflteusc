@@ -12,5 +12,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
   BUILD_FINGERPRINT="samsung/jflteusc/jflteusc:4.4.2/KOT49H/R970TYUFNK1:user/release-keys" \
   PRIVATE_BUILD_DESC="jflteusc-user 4.4.2 KOT49H R970TYUFNK1 release-keys"
 
-PRODUCT_NAME := fusion_jflteusc
+PRODUCT_NAME := fusionsp_jflteusc
 PRODUCT_DEVICE := jflteusc
